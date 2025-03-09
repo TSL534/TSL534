@@ -1,7 +1,7 @@
 # 🗃️ Current Projects:
 - Ellen Tool 
 - Save Another Realm Auto Mod Bot
--
+- RANLS Nuker
 
 
 ## 🌐 Socials:
