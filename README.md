@@ -1,7 +1,7 @@
 # 🗃️ Current Projects:
-- Vertex
+- Lester
 - Save Another Realm Auto Mod Bot
-- Xenith (Nukie Bear V3)
+
 
 
 ## 🌐 Socials:
